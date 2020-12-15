@@ -1,10 +1,9 @@
-# ETL-Proyect
-ETL-Proyect
+# ETL-Project
+ETL-Project
 
 # Raul Haro
-## Used-cars
+## Used-cars Project
 
-### Final Report
 ## Detailing the process of extraction, transformation and loading
  Extract process form CSV file 'vehicles'obtained in Kaggle
  Web Scrappinng from Craighlistthe in Houston
